@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.17)  27 OCT 2024 10:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.17)  28 OCT 2024 10:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -826,87 +826,62 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 169.
 
-Underfull \hbox (badness 10000) in paragraph at lines 173--178
+Underfull \hbox (badness 10000) in paragraph at lines 169--172
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 173--178
+Underfull \hbox (badness 10000) in paragraph at lines 175--180
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 181--188
+Underfull \hbox (badness 10000) in paragraph at lines 175--180
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 181--188
+Underfull \hbox (badness 10000) in paragraph at lines 183--190
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 181--188
+Underfull \hbox (badness 10000) in paragraph at lines 183--190
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 191--198
+Underfull \hbox (badness 10000) in paragraph at lines 183--190
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 191--198
+Underfull \hbox (badness 10000) in paragraph at lines 193--200
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 191--198
+Underfull \hbox (badness 10000) in paragraph at lines 193--200
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 201--208
+Underfull \hbox (badness 10000) in paragraph at lines 193--200
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 201--208
+Underfull \hbox (badness 10000) in paragraph at lines 203--210
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 201--208
+Underfull \hbox (badness 10000) in paragraph at lines 203--210
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 211--224
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 211--224
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 211--224
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 211--224
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 211--224
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 211--224
+Underfull \hbox (badness 10000) in paragraph at lines 203--210
 
  []
 
@@ -914,17 +889,46 @@ Underfull \hbox (badness 10000) in paragraph at lines 211--224
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.224 
-       [1
+l.211 \subsection{Pregunta 5}
+                              [1
 
 
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 213--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--226
+
+ []
+
 File: LOGO_UNIVERSIDAD.jpg Graphic file (type jpg)
 <use LOGO_UNIVERSIDAD.jpg>
-Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 225.
+Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 227.
 (pdftex.def)             Requested size: 110.8946pt x 40.20973pt.
- [2] (./informe.aux
+[2] (./informe.aux
 LaTeX Info: Redefining \. on input line 15.
 LaTeX Info: Redefining \% on input line 15.
  (./resumen.aux))
@@ -938,16 +942,16 @@ Package rerunfilecheck Info: File `informe.out' has not changed.
 Here is how much of TeX's memory you used:
  27255 strings out of 474116
  499252 string characters out of 5743682
- 1938187 words of memory out of 5000000
+ 1935187 words of memory out of 5000000
  49066 multiletter control sequences out of 15000+600000
  590902 words of font info for 119 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,16n,87p,1207b,546s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on informe.pdf (3 pages, 275749 bytes).
+Output written on informe.pdf (3 pages, 276188 bytes).
 PDF statistics:
- 85 PDF objects out of 1000 (max. 8388607)
- 66 compressed objects within 1 object stream
+ 86 PDF objects out of 1000 (max. 8388607)
+ 67 compressed objects within 1 object stream
  9 named destinations out of 1000 (max. 500000)
  40514 words of extra memory for PDF output out of 42996 (max. 10000000)
 

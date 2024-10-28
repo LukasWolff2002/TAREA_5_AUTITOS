@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1730035088.53954 "/Users/lukaswolff/Desktop/24_20/AUTITOS/TAREAS/TAREA_5_AUTITOS/INFORME/informe.tex" "informe.pdf" "informe" 1730035089.34918 0
-  "/Users/lukaswolff/Desktop/24_20/AUTITOS/TAREAS/TAREA_5_AUTITOS/INFORME/informe.tex" 1730035088.23976 9948 9a138e4bd0fbb6789f9cee2c13c8d84e ""
+["pdflatex"] 1730123215.8793 "/Users/lukaswolff/Desktop/24_20/AUTITOS/TAREAS/TAREA_5_AUTITOS/INFORME/informe.tex" "informe.pdf" "informe" 1730123216.70657 0
+  "/Users/lukaswolff/Desktop/24_20/AUTITOS/TAREAS/TAREA_5_AUTITOS/INFORME/informe.tex" 1730123215.70076 10114 46264c6b7c6b53487fb82644e4b190f6 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/symbol/psyr.tfm" 1136768653 1408 5937f58aa508ea2cea4901c07d10f5fe ""
@@ -184,10 +184,10 @@
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1710685568 8221436 9feefa88f893c4604437a3bcd513880c ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
   "LOGO_UNIVERSIDAD.jpg" 1729974105.92238 209820 0b87a0bacbcaefabd8c20ec03a39f2f2 ""
-  "informe.aux" 1730035089.27728 1169 df66a16b31c20a11c319fbc1da18cc7d "pdflatex"
-  "informe.out" 1730035089.27859 704 e0374efc8274d3a31c06cdf9f295cedb "pdflatex"
-  "informe.tex" 1730035088.23976 9948 9a138e4bd0fbb6789f9cee2c13c8d84e ""
-  "resumen.aux" 1730035089.25308 710 e11257429a47c249b26ae9e5ba74c86b "pdflatex"
+  "informe.aux" 1730123216.63192 1169 df66a16b31c20a11c319fbc1da18cc7d "pdflatex"
+  "informe.out" 1730123216.63328 704 e0374efc8274d3a31c06cdf9f295cedb "pdflatex"
+  "informe.tex" 1730123215.70076 10114 46264c6b7c6b53487fb82644e4b190f6 ""
+  "resumen.aux" 1730123216.60684 710 e11257429a47c249b26ae9e5ba74c86b "pdflatex"
   "resumen.tex" 0 -1 0 ""
   (generated)
   "informe.aux"
